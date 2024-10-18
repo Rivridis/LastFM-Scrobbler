@@ -1,7 +1,0 @@
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-tuple_x64-windows/include/boost/tuple/detail/tuple_basic.hpp
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-tuple_x64-windows/include/boost/tuple/tuple.hpp
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-tuple_x64-windows/include/boost/tuple/tuple_comparison.hpp
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-tuple_x64-windows/include/boost/tuple/tuple_io.hpp
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-tuple_x64-windows/lib/cmake/boost_tuple-1.85.0/boost_tuple-targets.cmake
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-tuple_x64-windows/lib/cmake/boost_tuple-1.85.0/boost_tuple-config.cmake
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-tuple_x64-windows/lib/cmake/boost_tuple-1.85.0/boost_tuple-config-version.cmake

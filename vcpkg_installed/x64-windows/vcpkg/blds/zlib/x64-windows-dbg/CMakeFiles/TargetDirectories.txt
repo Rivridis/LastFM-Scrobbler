@@ -1,7 +1,0 @@
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/zlib/x64-windows-dbg/CMakeFiles/zlib.dir
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/zlib/x64-windows-dbg/CMakeFiles/test.dir
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/zlib/x64-windows-dbg/CMakeFiles/edit_cache.dir
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/zlib/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/zlib/x64-windows-dbg/CMakeFiles/list_install_components.dir
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/zlib/x64-windows-dbg/CMakeFiles/install.dir
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/zlib/x64-windows-dbg/CMakeFiles/install/local.dir

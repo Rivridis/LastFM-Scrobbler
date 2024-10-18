@@ -1,2 +1,0 @@
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/zlib_x64-windows/debug/lib/zlibd.lib
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/zlib_x64-windows/debug/bin/zlibd1.dll

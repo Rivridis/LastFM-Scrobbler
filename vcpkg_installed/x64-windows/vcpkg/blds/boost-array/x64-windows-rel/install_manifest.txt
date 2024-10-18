@@ -1,4 +1,0 @@
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-array_x64-windows/include/boost/array.hpp
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-array_x64-windows/lib/cmake/boost_array-1.85.0/boost_array-targets.cmake
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-array_x64-windows/lib/cmake/boost_array-1.85.0/boost_array-config.cmake
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-array_x64-windows/lib/cmake/boost_array-1.85.0/boost_array-config-version.cmake

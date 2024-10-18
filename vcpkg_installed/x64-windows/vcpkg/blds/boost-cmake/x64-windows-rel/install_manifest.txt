@@ -1,2 +1,0 @@
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-cmake_x64-windows/share/boost/BoostConfigVersion.cmake
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-cmake_x64-windows/share/boost/BoostConfig.cmake

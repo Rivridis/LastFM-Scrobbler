@@ -1,9 +1,0 @@
-# ninja log v5
-14	154	7509777374560684	libs/regex/CMakeFiles/boost_regex.dir/src/regex_debug.cpp.obj	6e6839a83b69d912
-11	157	7509777374570678	libs/regex/CMakeFiles/boost_regex.dir/src/regex.cpp.obj	2fb23f8bbc9a16ab
-17	159	7509777374610653	libs/regex/CMakeFiles/boost_regex.dir/src/static_mutex.cpp.obj	1cc3d35f97a39b69
-5	976	7509777382710702	libs/regex/CMakeFiles/boost_regex.dir/src/posix_api.cpp.obj	eb40ad86aa59419f
-8	983	7509777382792394	libs/regex/CMakeFiles/boost_regex.dir/src/wide_posix_api.cpp.obj	4e48cac9a1c9e788
-983	1396	7509777386683849	stage/bin/boost_regex-vc144-mt-gd-x64-1_85.dll	c38ce475127033f6
-983	1396	7509777386683849	stage/lib/boost_regex-vc144-mt-gd-x64-1_85.lib	c38ce475127033f6
-1397	2256	0	CMakeFiles/install.util	b0e6558aed184fb4

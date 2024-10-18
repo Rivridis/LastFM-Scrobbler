@@ -1,6 +1,0 @@
-# ninja log v5
-7	175	7509778042030040	libs/atomic/CMakeFiles/boost_atomic.dir/src/wait_on_address.cpp.obj	1d9be8363661ff98
-3	307	7509778043327246	libs/atomic/CMakeFiles/boost_atomic.dir/src/lock_pool.cpp.obj	85d40fe6fb624643
-307	424	7509778044363194	stage/bin/boost_atomic-vc144-mt-x64-1_85.dll	7cb02ca3fdbd2036
-307	424	7509778044363194	stage/lib/boost_atomic-vc144-mt-x64-1_85.lib	7cb02ca3fdbd2036
-424	636	0	CMakeFiles/install.util	e1688fb7c682d36c

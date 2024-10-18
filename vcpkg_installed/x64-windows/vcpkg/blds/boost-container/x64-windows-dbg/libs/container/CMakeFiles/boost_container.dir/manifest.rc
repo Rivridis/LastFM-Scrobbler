@@ -1,2 +1,0 @@
-#pragma code_page(65001)
-2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-container/x64-windows-dbg/libs/container/CMakeFiles/boost_container.dir/embed.manifest"

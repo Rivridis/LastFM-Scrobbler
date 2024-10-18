@@ -1,6 +1,0 @@
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-conversion_x64-windows/include/boost/implicit_cast.hpp
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-conversion_x64-windows/include/boost/polymorphic_cast.hpp
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-conversion_x64-windows/include/boost/polymorphic_pointer_cast.hpp
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-conversion_x64-windows/lib/cmake/boost_conversion-1.85.0/boost_conversion-targets.cmake
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-conversion_x64-windows/lib/cmake/boost_conversion-1.85.0/boost_conversion-config.cmake
-B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-conversion_x64-windows/lib/cmake/boost_conversion-1.85.0/boost_conversion-config-version.cmake
