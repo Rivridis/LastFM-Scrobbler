@@ -38,7 +38,6 @@ static void scrobble()
 {
 
     string scrob_call = "api_key" + api_key() + "artist" + utf8_artist + "methodtrack.scrobblesk" + sk + "timestamp" + timestamp + "track" + utf8_track + secret();
-    cout << scrob_call;
     string scrob_call_sig = md5(scrob_call);
 
     CURL* curl;
@@ -73,9 +72,7 @@ static void scrobble()
             "&sk=" + string(encoded_sessionkey) +
             "&format=json";
 
-        cout << reqformat;
         curl_easy_setopt(curl, CURLOPT_POSTFIELDS, reqformat.c_str());
-        curl_easy_setopt(curl, CURLOPT_VERBOSE, 1L);
 
         res = curl_easy_perform(curl);
         if (res != CURLE_OK)
