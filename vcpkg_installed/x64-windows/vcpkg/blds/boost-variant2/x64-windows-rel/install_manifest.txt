@@ -1,0 +1,5 @@
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-variant2_x64-windows/include/boost/variant2/variant.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-variant2_x64-windows/include/boost/variant2.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-variant2_x64-windows/lib/cmake/boost_variant2-1.85.0/boost_variant2-targets.cmake
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-variant2_x64-windows/lib/cmake/boost_variant2-1.85.0/boost_variant2-config.cmake
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-variant2_x64-windows/lib/cmake/boost_variant2-1.85.0/boost_variant2-config-version.cmake

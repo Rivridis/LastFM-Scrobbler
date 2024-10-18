@@ -1,0 +1,9 @@
+Package: boost-locale
+Version: 1.85.0
+Port-Version: 2
+Depends: boost-assert, boost-cmake, boost-config, boost-core, boost-headers, boost-iterator, boost-predef, boost-thread, boost-utility
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 3a3eca10250ba19d97930c7fd971f9b31c01571fd853b59b9c3c65457b86f2a6
+Description: Boost locale module
+Status: install ok half-installed

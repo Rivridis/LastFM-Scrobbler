@@ -1,0 +1,16 @@
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/common_factor.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/common_factor_ct.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/common_factor_rt.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/extended_euclidean.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/integer_log2.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/integer_mask.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/mod_inverse.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/static_log2.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer/static_min_max.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer_fwd.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/integer_traits.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/include/boost/pending/integer_log2.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/lib/cmake/boost_integer-1.85.0/boost_integer-targets.cmake
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/lib/cmake/boost_integer-1.85.0/boost_integer-config.cmake
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-integer_x64-windows/lib/cmake/boost_integer-1.85.0/boost_integer-config-version.cmake

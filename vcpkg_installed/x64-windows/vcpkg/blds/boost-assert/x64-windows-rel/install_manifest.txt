@@ -1,0 +1,6 @@
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-assert_x64-windows/include/boost/assert/source_location.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-assert_x64-windows/include/boost/assert.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-assert_x64-windows/include/boost/current_function.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-assert_x64-windows/lib/cmake/boost_assert-1.85.0/boost_assert-targets.cmake
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-assert_x64-windows/lib/cmake/boost_assert-1.85.0/boost_assert-config.cmake
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-assert_x64-windows/lib/cmake/boost_assert-1.85.0/boost_assert-config-version.cmake

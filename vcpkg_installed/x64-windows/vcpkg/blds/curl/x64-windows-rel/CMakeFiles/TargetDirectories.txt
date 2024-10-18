@@ -1,0 +1,13 @@
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/CMakeFiles/curl_uninstall.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/CMakeFiles/edit_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/CMakeFiles/list_install_components.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/CMakeFiles/install.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/CMakeFiles/install/local.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/lib/CMakeFiles/libcurl_object.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/lib/CMakeFiles/libcurl_shared.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/lib/CMakeFiles/edit_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/lib/CMakeFiles/rebuild_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/lib/CMakeFiles/list_install_components.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/lib/CMakeFiles/install.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/curl/x64-windows-rel/lib/CMakeFiles/install/local.dir

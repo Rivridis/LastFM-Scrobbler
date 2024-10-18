@@ -1,0 +1,13 @@
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/factory.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/forward_adapter.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/identity.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/lightweight_forward_adapter.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/overloaded_function/config.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/overloaded_function/detail/base.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/overloaded_function/detail/function_type.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/overloaded_function.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional/value_factory.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/include/boost/functional.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/lib/cmake/boost_functional-1.85.0/boost_functional-targets.cmake
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/lib/cmake/boost_functional-1.85.0/boost_functional-config.cmake
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-functional_x64-windows/lib/cmake/boost_functional-1.85.0/boost_functional-config-version.cmake

@@ -1,0 +1,13 @@
+﻿#pragma once
+#include <winrt/Windows.Foundation.Collections.h>
+#include <winrt/Windows.Web.Syndication.h>
+#include <winrt/Windows.System.Threading.h>
+#include <iostream>
+#include <winrt/Windows.Media.Control.h>
+#include <winrt/Windows.Foundation.h>
+#include <string>
+#include <thread>
+#include <chrono>
+#include <curl/curl.h>
+#include <format>
+#include <nlohmann/json.hpp>

@@ -1,0 +1,14 @@
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/CMakeFiles/tests.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/CMakeFiles/check.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/CMakeFiles/tests-quick.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/CMakeFiles/check-quick.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/CMakeFiles/edit_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/CMakeFiles/list_install_components.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/CMakeFiles/install.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/CMakeFiles/install/local.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/libs/array/CMakeFiles/edit_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/libs/array/CMakeFiles/rebuild_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/libs/array/CMakeFiles/list_install_components.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/libs/array/CMakeFiles/install.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-array/x64-windows-rel/libs/array/CMakeFiles/install/local.dir

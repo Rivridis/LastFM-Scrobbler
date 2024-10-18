@@ -1,0 +1,15 @@
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/CMakeFiles/tests.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/CMakeFiles/check.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/CMakeFiles/tests-quick.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/CMakeFiles/check-quick.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/CMakeFiles/edit_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/CMakeFiles/list_install_components.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/CMakeFiles/install.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/CMakeFiles/install/local.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/libs/chrono/CMakeFiles/boost_chrono.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/libs/chrono/CMakeFiles/edit_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/libs/chrono/CMakeFiles/rebuild_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/libs/chrono/CMakeFiles/list_install_components.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/libs/chrono/CMakeFiles/install.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-chrono/x64-windows-dbg/libs/chrono/CMakeFiles/install/local.dir

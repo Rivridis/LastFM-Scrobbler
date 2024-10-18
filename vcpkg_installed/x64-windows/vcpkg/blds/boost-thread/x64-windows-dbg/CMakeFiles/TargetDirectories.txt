@@ -1,0 +1,15 @@
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/CMakeFiles/tests.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/CMakeFiles/check.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/CMakeFiles/tests-quick.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/CMakeFiles/check-quick.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/CMakeFiles/edit_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/CMakeFiles/list_install_components.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/CMakeFiles/install.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/CMakeFiles/install/local.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/libs/thread/CMakeFiles/boost_thread.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/libs/thread/CMakeFiles/edit_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/libs/thread/CMakeFiles/rebuild_cache.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/libs/thread/CMakeFiles/list_install_components.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/libs/thread/CMakeFiles/install.dir
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/blds/boost-thread/x64-windows-dbg/libs/thread/CMakeFiles/install/local.dir

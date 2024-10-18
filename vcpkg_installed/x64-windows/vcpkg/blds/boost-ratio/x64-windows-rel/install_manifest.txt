@@ -1,0 +1,12 @@
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/config.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/detail/gcd_lcm.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/detail/is_evenly_divisible_by.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/detail/is_ratio.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/include.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/ratio.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/ratio_fwd.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio/ratio_io.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-ratio_x64-windows/include/boost/ratio.hpp
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-ratio_x64-windows/lib/cmake/boost_ratio-1.85.0/boost_ratio-targets.cmake
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-ratio_x64-windows/lib/cmake/boost_ratio-1.85.0/boost_ratio-config.cmake
+B:/Windows Apps/LastFM-Scrobbler/vcpkg_installed/x64-windows/vcpkg/pkgs/boost-ratio_x64-windows/lib/cmake/boost_ratio-1.85.0/boost_ratio-config-version.cmake
